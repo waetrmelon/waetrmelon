@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,windows,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bots,linux,nodejs,arch,windows,linux&perline=14" />
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bots,linux,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,atom&perline=14" />
   </a>
 </p>
