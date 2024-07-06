@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,go&perline=14"/>
   </a>
 </p>
 
